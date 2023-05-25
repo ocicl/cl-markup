@@ -1,0 +1,9 @@
+* cl-markup
+
+Modern markup (HTML) generation library for Common Lisp
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/arielnetworks/cl-markup.git |
+| commit  | e0eb7de                                            |
+| systems | cl-markup                                          |
+|---------+----------------------------------------------------|
